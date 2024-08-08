@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "19869420.aternos.me",
+		"port": "15227",
+		"username": " Beast"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
@@ -12,4 +12,4 @@
 		"holdDuration": 5000,
 		"retryDelay": 15000
 	}
-}
+} 
